@@ -1,0 +1,20 @@
+.racer_table td {
+  background-color: orange;
+  height: 20px;
+  width: 20px;
+  border: black;
+}
+
+.racer_table td.active {
+  background-color: black;
+  height:20px;
+  width:20px;
+  border: black;
+}
+
+.racer_table td.active1 {
+  background-color: black;
+  height:20px;
+  width:20px;
+  border: black;
+}
